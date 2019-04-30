@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/myshell2.dir/main.c.o CMakeFiles/myshell2.dir/execute.c.o CMakeFiles/myshell2.dir/divide.c.o  -o myshell2 

@@ -1,0 +1,4 @@
+/root/Desktop/clion-2018.1.1/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /root/Desktop/Project/SO/myshell2
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /root/Desktop/Project/SO/myshell2/cmake-build-debug

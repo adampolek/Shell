@@ -1,0 +1,20 @@
+touch cos.txt | gedit cos2.txt | ls | mkdir mama | cd mama
+ls
+cd mama
+ls
+cd ..
+ls
+mkdir mama2 | ls -l | cd mama2 | ls
+exit
+exit
+./s.sh
+exit
+./s.sh
+exit
+./s.sh
+exit
+./s.sh
+exit
+ls -l
+cd ..
+cd cma*
